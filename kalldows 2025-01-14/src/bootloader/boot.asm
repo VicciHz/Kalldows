@@ -213,7 +213,7 @@ disk_reset:
 	ret
 
 msg_welcome: db 'Welcome to Kalldows!', ENDL, 0
-msg_cont: db 'This operating system was created by Vicci', ENDL, 'Its only purpose is to prove to Kalle that assembly is good', ENDL, 0
+msg_cont: db 'This operating system was created by Vicci', ENDL, 'Its only purpose is to prove to Kalle that assembly is the best language ever made', ENDL, 0
 
 ; success
 msg_disk_read: db 'Disc read status: [OK]', ENDL, 0
